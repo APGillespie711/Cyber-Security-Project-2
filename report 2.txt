@@ -1,0 +1,36 @@
+﻿20/08/2024 13:09:27	Network attack detected	192.168.0.158	30873	54-07-7D-5F-37-74	TCP	873	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.158:30873 at 192.168.0.26:873	Network packet	
+27/08/2024 17:04:55	Network attack detected	192.168.0.158	30873	54-07-7D-5F-37-74	TCP	873	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.158:30873 at 192.168.0.12:873	Network packet	
+27/08/2024 17:04:55	Network attack detected	192.168.0.158	30800	54-07-7D-5F-37-74	TCP	800	DESKTOP-VHHAKB2\bansa	Active user	Blocked: DoS.Generic.Flood.TCPSYN	DoS.Generic.Flood.TCPSYN	Blocked	TCP from 192.168.0.158:30800 at 192.168.0.12:800	Network packet	
+28/08/2024 15:54:01	Network attack detected	192.168.0.17	64582	3A-9C-9C-14-78-54	TCP	12000	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.17:64582 at 192.168.0.12:12000	Network packet	
+28/08/2024 15:58:30	Network attack detected	192.168.0.3	37689	3C-2A-F4-81-97-3F	TCP	3826	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.3:37689 at 192.168.0.12:3826	Network packet	
+30/08/2024 15:53:42	Network attack detected	192.168.0.17	62500	3A-9C-9C-14-78-54	TCP	50000	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.17:62500 at 192.168.0.12:50000	Network packet	
+02/09/2024 11:39:33	Network attack detected	192.168.0.17	35502	3A-9C-9C-14-78-54	TCP	5802	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.17:35502 at 192.168.0.12:5802	Network packet	
+02/09/2024 12:15:42	Network attack detected	192.168.0.17	48503	3A-9C-9C-14-78-54	TCP	1217	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.17:48503 at 192.168.0.12:1217	Network packet	
+02/09/2024 14:13:07	Network attack detected	192.168.0.17	44791	3A-9C-9C-14-78-54	TCP	3006	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.17:44791 at 192.168.0.12:3006	Network packet	
+02/09/2024 14:13:09	Network attack detected	192.168.0.17	44791	3A-9C-9C-14-78-54	TCP	1001	DESKTOP-VHHAKB2\bansa	Active user	Blocked: DoS.Generic.Flood.TCPSYN	DoS.Generic.Flood.TCPSYN	Blocked	TCP from 192.168.0.17:44791 at 192.168.0.12:1001	Network packet	
+02/09/2024 15:18:27	Network attack detected	192.168.0.17	54094	3A-9C-9C-14-78-54	TCP	2106	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.17:54094 at 192.168.0.12:2106	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	30873	54-07-7D-5F-37-74	TCP	873	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.158:30873 at 192.168.0.12:873	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	30800	54-07-7D-5F-37-74	TCP	800	DESKTOP-VHHAKB2\bansa	Active user	Blocked: DoS.Generic.Flood.TCPSYN	DoS.Generic.Flood.TCPSYN	Blocked	TCP from 192.168.0.158:30800 at 192.168.0.12:800	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	30873	54-07-7D-5F-37-74	TCP	873	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.158:30873 at 192.168.0.12:873	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	31066	54-07-7D-5F-37-74	TCP	1066	DESKTOP-VHHAKB2\bansa	Active user	Blocked: DoS.Generic.Flood.TCPSYN	DoS.Generic.Flood.TCPSYN	Blocked	TCP from 192.168.0.158:31066 at 192.168.0.12:1066	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	30873	54-07-7D-5F-37-74	TCP	873	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.158:30873 at 192.168.0.12:873	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	31066	54-07-7D-5F-37-74	TCP	1066	DESKTOP-VHHAKB2\bansa	Active user	Blocked: DoS.Generic.Flood.TCPSYN	DoS.Generic.Flood.TCPSYN	Blocked	TCP from 192.168.0.158:31066 at 192.168.0.12:1066	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	30873	54-07-7D-5F-37-74	TCP	873	DESKTOP-VHHAKB2\bansa	Active user	Blocked: Scan.Generic.PortScan.TCP	Scan.Generic.PortScan.TCP	Blocked	TCP from 192.168.0.158:30873 at 192.168.0.12:873	Network packet	
+03/09/2024 12:42:59	Network attack detected	192.168.0.158	31066	54-07-7D-5F-37-74	TCP	1066	DESKTOP-VHHAKB2\bansa	Active user	Blocked: DoS.Generic.Flood.TCPSYN	DoS.Generic.Flood.TCPSYN	Blocked	TCP from 192.168.0.158:31066 at 192.168.0.12:1066	Network packet	
+14/08/2024 17:10:57	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+14/08/2024 17:17:25	Task stopped						DESKTOP-VHHAKB2\bansa	Active user	Task stopped		Task stopped			
+14/08/2024 17:17:33	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+14/08/2024 20:55:32	Task started						NT AUTHORITY\SYSTEM	System user	Task started		Task started			
+15/08/2024 14:18:08	Task started						NT AUTHORITY\SYSTEM	System user	Task started		Task started			
+19/08/2024 10:00:48	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+20/08/2024 22:20:11	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+23/08/2024 13:59:00	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+28/08/2024 14:09:54	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+28/08/2024 16:32:02	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+29/08/2024 12:08:17	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+29/08/2024 17:14:51	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+30/08/2024 15:52:31	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+02/09/2024 13:44:15	Task started						NT AUTHORITY\SYSTEM	System user	Task started		Task started			
+03/09/2024 12:43:03	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+04/09/2024 18:14:16	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			
+Today, 11/09/2024 13:16:58	Task started						DESKTOP-VHHAKB2\bansa	Active user	Task started		Task started			

@@ -1,0 +1,19 @@
+﻿14/08/2024 17:10:57	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+14/08/2024 17:17:25	Task stopped		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+14/08/2024 17:17:33	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+14/08/2024 20:55:02	Task stopped		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		NT AUTHORITY\SYSTEM	System user											
+14/08/2024 20:55:32	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		NT AUTHORITY\SYSTEM	System user											
+14/08/2024 20:56:23	Task stopped		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		NT AUTHORITY\SYSTEM	System user											
+15/08/2024 14:18:09	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		NT AUTHORITY\SYSTEM	System user											
+19/08/2024 10:00:49	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+20/08/2024 22:20:12	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+23/08/2024 13:59:04	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+28/08/2024 14:09:58	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+28/08/2024 16:32:03	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+29/08/2024 12:08:17	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+29/08/2024 17:14:52	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+30/08/2024 15:52:28	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+02/09/2024 13:44:17	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		NT AUTHORITY\SYSTEM	System user											
+03/09/2024 12:43:02	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+04/09/2024 18:14:22	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
+Today, 11/09/2024 13:17:00	Task started		avp.exe	C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.18		DESKTOP-VHHAKB2\bansa	Active user											
